@@ -1,16 +1,21 @@
-## Hi there 👋
+# Lucas Brusasca
 
-<!--
-**LucasBrusasca/LucasBrusasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer · Data Scientist · Córdoba, Argentina
 
-Here are some ideas to get you started:
+Perfil híbrido: Contador Público + Data Scientist + 5 años construyendo 
+soluciones de IA en entornos corporativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qué estoy construyendo
+
+- 🧠 **[Multi-RAG Energy AR](https://github.com/LucasBrusasca/multi-rag-energy-ar)** — Arquitectura Multi-RAG multimodal con orquestación reflexiva para el sector energético argentino. Tesis de Maestría, Universidad Austral.
+
+## Stack
+
+## Stack
+
+Python · SQL · PostgreSQL · Power BI · LLMs · Anthropic Claude ·
+Machine Learning · NLP · Series Temporales · R · Git · Streamlit · Jupyter · VSCode
+
+## Contacto
+
+[LinkedIn](https://linkedin.com/in/lucasbrusasca) · lbrusasca@mail.austral.edu.ar
