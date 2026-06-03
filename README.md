@@ -11,8 +11,6 @@ soluciones de IA en entornos corporativos.
 
 ## Stack
 
-## Stack
-
 Python · SQL · PostgreSQL · Power BI · LLMs · Anthropic Claude ·
 Machine Learning · NLP · Series Temporales · R · Git · Streamlit · Jupyter · VSCode
 
